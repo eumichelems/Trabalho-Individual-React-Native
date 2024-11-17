@@ -23,6 +23,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "fonts": {
+      "Silhouette": "./assets/fonts/Silhouette.ttf",
+      "staravenue": "./assets/fonts/staravenue.ttf"
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
