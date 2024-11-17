@@ -1,4 +1,4 @@
-# Projeto React Native: Clone do Aplicativo Calm
+# 🙏Projeto React Native: Clone do Aplicativo Calm🙏
 
 Este projeto foi uma jornada incrível de aprendizado no **SERRATEC - Parque Tecnológico da Região Serrana RJ**. Quando comecei, não sabia nada sobre programação, e agora estou aqui, 
 criando meu próprio clone de tela do aplicativo **Calm**, tudo com **React Native** e **TypeScript**!
@@ -33,9 +33,12 @@ um simples toque em um botão.
 
 ## Demonstração
 
-Abaixo está a imagem da tela que foi clonada do **Calm** e o modelo desenvolvido por mim. Não deixe de conferir o design da interface e como ela foi recriada!
+Abaixo está a imagem original da tela que foi clonada do **Calm**. 
 
 ![Modelo Original](https://github.com/eumichelems/Trabalho-Individual-React-Native/blob/main/assets/Imagem/calm.jpeg?raw=true)
+
+E aqui o modelo desenvolvido por mim. Não deixe de conferir o design da interface e como ela foi recriada!
+
 ![Modelo Clonado](https://github.com/eumichelems/Trabalho-Individual-React-Native/blob/main/assets/Imagem/clone.jpeg?raw=true)
 
 ## 👩‍💻 Como Rodar o Projeto
