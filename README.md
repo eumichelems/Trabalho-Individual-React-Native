@@ -26,7 +26,6 @@ um simples toque em um botão.
 
 - **React Native**: Framework utilizado para construir uma interface mobile.
 - **TypeScript**: Para garantir tipagem e maior segurança no desenvolvimento.
-- **React Navigation**: Para facilitar a navegação entre as diferentes telas do aplicativo.
 - **Linking**: Para abrir URLs externas (como **Spotify** e **YouTube**).
 - **Expo**: Utilizado para melhoria do desenvolvimento e testes.
 
